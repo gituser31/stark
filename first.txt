@@ -1,2 +1,3 @@
 semua bermula dari awal. dan awal adalah file ini
 dan ini baris kedua
+ke baris ketiga
